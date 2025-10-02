@@ -2,10 +2,10 @@
 
 <p align="left">
 I specialize in <strong>Full-stack Development</strong> using <strong>Node.js, React.js, Django, PostgreSQL, MySQL, Tailwind</strong>.  
-I have completed many projects, including <a href="http://stage.cve-db.com" target="_blank">CVE-DB</a>.  
+I have completed many projects, including <a href="http://stage.cve-db.com" target="_blank">http://stage.cve-db.com</a>.  
 
 I can create **pixel-perfect websites** from Figma designs, implement **responsive layouts**, integrate **backend APIs**, and deliver professional, production-ready projects.  
-Feel free to contact me via the badges below—no need to share your email!
+Feel free to contact me via the badges below
 </p>
 
 ###
