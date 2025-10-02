@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Hrahat and I'm a  from Armenia</h2>
+<h2 align="left">Hi 👋! My name is Hrahat and I'm a Full-stack Developer from Armenia</h2>
+
+<p align="left">
+I specialize in <strong>Full-stack Development</strong> using <strong>Node.js, React.js, Django, PostgreSQL, MySQL, Tailwind</strong>.  
+I have completed many projects, including <a href="http://stage.cve-db.com" target="_blank">CVE-DB</a>.  
+
+I can create **pixel-perfect websites** from Figma designs, implement **responsive layouts**, integrate **backend APIs**, and deliver professional, production-ready projects.  
+Feel free to contact me via the badges below—no need to share your email!
+</p>
 
 ###
 
@@ -43,17 +51,10 @@
 
 ###
 
-###
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hrahatkhacahtryan4@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/37433274497)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:hrahatkhachatryan.q34-2@polytechnic.am)
 
 ###
 
-###
-
 <br clear="both">
-
-
-###
