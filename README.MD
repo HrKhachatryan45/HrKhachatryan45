@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Hrahat and I'm a Full-stack Developer from Armenia</h2>
 
 <p align="left">
-I specialize in <strong>Full-stack Development</strong> using <strong>Node.js, React.js, Django, PostgreSQL, MySQL, Tailwind</strong>.  
+I specialize in <strong>Full-stack Development</strong> using <strong>Node.js, React.js,React Native, Django, PostgreSQL, MySQL, Tailwind</strong>.  
 I have completed many projects, including <a href="http://cve-db.com" target="_blank">http://cve-db.com</a>.  
 
 I can create **pixel-perfect websites** from Figma designs, implement **responsive layouts**, integrate **backend APIs**, and deliver professional, production-ready projects.  
